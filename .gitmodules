@@ -1,0 +1,24 @@
+[submodule "simple-pt"]
+	path = simple-pt
+	url = https://github.com/andikleen/simple-pt.git
+[submodule "ARCUS"]
+	path = ARCUS
+	url = https://github.com/carter-yagemann/ARCUS.git
+[submodule "libipt"]
+	path = libipt
+	url = https://github.com/intel/libipt.git
+[submodule "ptfuzzer"]
+	path = ptfuzzer
+	url = https://github.com/hunter-ht-2018/ptfuzzer.git
+[submodule "libxdc"]
+	path = libxdc
+	url = https://github.com/nyx-fuzz/libxdc.git
+[submodule "kAFL"]
+	path = kAFL
+	url = https://github.com/RUB-SysSec/kAFL.git
+[submodule "redqueen"]
+	path = redqueen
+	url = https://github.com/RUB-SysSec/redqueen.git
+[submodule "Honeybee"]
+	path = Honeybee
+	url = https://github.com/trailofbits/Honeybee.git
